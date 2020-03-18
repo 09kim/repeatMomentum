@@ -1,0 +1,18 @@
+.center {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top:250px;
+  }
+ 
+
+  .form,
+  .greeting {
+      display:none;
+  }  
+
+
+  .showing{
+      display: block;
+  }
